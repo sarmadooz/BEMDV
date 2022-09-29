@@ -85,7 +85,7 @@ Importing Veins and Running Example
 next step is to import veins 4.5 in omnetpp project
 
 first of all download veins 4.5 from “http://veins.car2x.org/download/” and extract it to the same
-folder/directory where omnetpp is extracted after extracting veins 4.6 , we need to import it in omnetpp
+folder/directory where omnetpp is extracted after extracting veins 4.5 , we need to import it in omnetpp
 , click on “file” then click “import”, after that select “general” and then “existing projects into
 workspace” and click next.
 
