@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!-- 
+194 Cars leaving the Computer Science Building and campus of the University of Erlangen-Nuremberg
+Copyright (C) 2008 Christoph Sommer <christoph.sommer@informatik.uni-erlangen.de>
+Licensed under the Creative Commons Attribution-ShareAlike 2.0 license <http://creativecommons.org/licenses/by-sa/2.0/>
+-->
+
+<routes>
+<!--
+   <vType id="vtype0" accel="2.6" decel="4.5" sigma="0.5" length="2.5" minGap="2.5" maxSpeed="14" color="1,1,0"/>
+   <route id="route0" edges="-39539626 -5445204#2 -5445204#1 113939244#2 -126606716 23339459 30405358#1 85355912 85355911#0 85355911#1 30405356 5931612 30350450#0 30350450#1 30350450#2 4006702#0 4006702#1 4900043 4900041#1"/>
+   <flow id="flow0" type="vtype0" route="route0" begin="0" period="1" number="45"/>
+   
+   
+   
+ 
+ <vType id="vtype1" accel="2.6" decel="4.5" sigma="0.5" length="2.5" minGap="2.5" maxSpeed="70" color="0,1,0"/>
+  <route id="route1" edges="23360299 5445204#2 39539626"/>
+   <flow id="flow1" type="vtype1" route="route1" begin="5" period="1" number="45"/>
+
+<vType id="vtype2" accel="2.6" decel="4.5" sigma="0.5" length="2.5" minGap="2.5" maxSpeed="70" color="0,1,1"/>
+<route id="route2" edges="23570844#1 -5445204#3 39539626"/>
+<flow id="flow2" type="vtype2" route="route2" begin="6" period="1" number="45"/>
+-->
+
+
+
+
+
+
+
+<vType id="vtype0" accel="2.6" decel="4.5" sigma="0.5" length="2.5" minGap="2.5" maxSpeed="14" color="1,1,0"/>
+   
+   <flow id="flow0" type="vtype0"  from="4319351" to="32320329"  via="-4006672" begin="0" period="1" number="30"/>
+   
+   <!-- 
+<flow id="flow1" type="vtype0"  from="10573414#0" to="-125685391" via="-4006703#0"  begin="0" period="1" number="10"/>
+<flow id="flow2" type="vtype0"  from="31241853#0" to="-4392769" via="-3013106#2"  begin="0" period="1" number="10"/>
+      
+-->
+
+
+
+
+
+<!--
+
+<flow id="flow4" type="vtype0" begin="8" from="4047316" to="39539626" period="1" number="40"/>
+
+-->
+
+</routes>
+
